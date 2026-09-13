@@ -48,8 +48,3 @@ The dataset contains employee information and HR-related attributes.
 | YearsWithCurrManager    | Years with current manager            |
 
 
----
-
-## ⭐ Project
-
-If you find this project useful, please consider giving it a ⭐ on GitHub.
